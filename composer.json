@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "gospel24\\framwork\\": "/src"
+            "gospel24\\framework\\": "/src"
         }
     }
 }
